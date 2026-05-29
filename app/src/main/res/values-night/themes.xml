@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.Set_As_Launcher" parent="@android:style/Theme.DeviceDefault">
+    </style>
+</resources>
