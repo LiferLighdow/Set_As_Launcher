@@ -2,7 +2,7 @@
 
 **Set As Launcher (SAL)** is an ultra-minimalist, high-performance utility designed to transform ANY Android application into your system launcher. It is built for developers, minimalist enthusiasts, and legacy hardware recovery.
 
-![SAL Screenshot](https://raw.githubusercontent.com/your-username/your-repo/main/screenshot.png)
+![SAL Screenshot](screenshots/screenshot.png)
 
 The philosophy is simple: **Zero bloat. Absolute control.**
 
